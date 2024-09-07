@@ -1,4 +1,7 @@
+# pr_9_AB_test
 A/B-test: prioritization of hypotheses for site development, interpretation of results
+
+[HTML](https://github.com/AlexPredelin/Portfolio/blob/main/pr_9_AB_test/pr_9_AB_test.html) [ipynb](https://github.com/AlexPredelin/Portfolio/blob/main/pr_9_AB_test/pr_9_AB_test.ipynb)
 
 # A/B-тест: приоритизация гипотез по развитию сайта, интерпретация результатов
 
