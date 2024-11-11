@@ -13,9 +13,9 @@ A/B-test: prioritization of hypotheses for site development, interpretation of r
 
 - Python 
 - pandas 
-- scipy 
+- SciPy 
 - фреймворки ICE, RICE
-- matplotlib 
+- Matplotlib 
 
 ## Получены специфические результаты:
 - Кумулятивные:
