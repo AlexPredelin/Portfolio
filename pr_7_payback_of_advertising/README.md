@@ -12,8 +12,8 @@ Analysis of business indicators - payback of advertising
 - Python 
 - pandas 
 - numpy 
-- matplotlib 
-- seaborn 
+- Matplotlib 
+- Seaborn 
 
 ## Вот что получилось сделать в ходе работы над проектом
 
