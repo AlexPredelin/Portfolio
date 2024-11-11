@@ -10,7 +10,7 @@ Analysis of the mobile app sales funnel based on the results of the A/B test.
 
 ## Навыки и инструменты
 - pandas
-- scipy
+- SciPy
 - numpy
-- matplotlib
-- plotly
+- Matplotlib
+- Plotly
